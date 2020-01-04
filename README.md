@@ -1,9 +1,11 @@
 # Server-config
 IP Address:52.56.54.92
+
 SSH Port:2200
+URL:52.56.54.92
 
 Steps Followed to Configure the server
-
+Create instance on amazon Lightsail 
 
 1. Update all packages
 sudo apt-get update
